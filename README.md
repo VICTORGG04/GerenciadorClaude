@@ -1,4 +1,4 @@
-# Gerenciador ERP v2.0.3
+# Gerenciador ERP v2.0.4
 
 Sistema web de gerenciamento de estoque desenvolvido em **Ruby + Sinatra + PostgreSQL**. Controle completo de produtos, categorias, movimentações, pedidos, relatórios e backups, com autenticação por perfis de usuário (Administrador e Operador), pagamentos via Stripe e licenciamento automatizado.
 
