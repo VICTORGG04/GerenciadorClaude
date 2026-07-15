@@ -545,4 +545,4 @@ lsof -ti:4568 | xargs kill -9
 
 ## Licença
 
-Projeto privado — todos os direitos reservados.
+Licenciado sob a **Apache License 2.0** — veja [LICENSE](LICENSE) para detalhes.

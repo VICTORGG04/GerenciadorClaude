@@ -1,0 +1,29 @@
+Gerenciador ERP v2.0.4
+Copyright 2024-2025 Victor Gomes
+
+This product includes software developed at
+Victor Gomes (https://github.com/VICTORGG04)
+
+---
+
+Licenças de dependências (resumo):
+
+- Sinatra 4.x - MIT License
+- Puma 6.x - BSD-3-Clause
+- PostgreSQL (pg gem) - PostgreSQL License
+- BCrypt - MIT License
+- Nokogiri - MIT License
+- Roo - MIT License
+- Rubyzip - BSD-2-Clause
+- Rufus-scheduler - MIT License
+- Google APIs Client - Apache-2.0
+- Stripe Ruby - MIT License
+- Dotenv - MIT License
+- Rack/Rackup - MIT License
+- Webrick - BSD-2-Clause
+- Logger - BSD-2-Clause
+- Net-SMTP - BSD-2-Clause
+
+Textos completos das licenças das dependências estão disponíveis em:
+https://github.com/VICTORGG04/GerenciadorERP/tree/main/licenses (se aplicável)
+ou via `bundle exec gem licenses`
